@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <meta charset="utf-8" />
-    <title>PHP 1.1</title>
-  </head>
-  <body>
+<head>
+  <meta charset="utf-8" />
+  <title>PHP 1.1</title>
+</head>
+<body>
+  <p>
     <?php
-$name = Lucien;
-echo $name;
+    $name = 'Lucien';
+    echo $name;
     ?>
-  </body>
+  </p>
+</body>
 </html>
